@@ -1,6 +1,6 @@
 #https://www.programiz.com/python-programming/examples/fibonacci-sequence 08.04.19
 
-# Program to display the Fibonacci sequence up to n-th term where n is provided by the user
+'''Program to display the Fibonacci sequence up to n-th term where n is provided by the user'''
 
 # change this value for a different result
 nterms = 10
